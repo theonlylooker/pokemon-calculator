@@ -1,0 +1,9 @@
+mobile
+	imagen
+	buscador
+	filters(intentar)
+	pokedex pagination(buttons?)
+		-pokemon card
+web
+	imagen buscador
+	filters pokedex pagination(buttons?)
