@@ -4,5 +4,4 @@ import App from "./App";
 
 test("renders the app", () => {
   const component = render(<App />);
-  component.getByText("asda");
 });

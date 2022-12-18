@@ -6,4 +6,5 @@ mobile
 		-pokemon card
 web
 	imagen buscador
-	filters pokedex pagination(buttons?)
+	filters(intentar) pokedex pagination(buttons?)
+			  -pokemon card
