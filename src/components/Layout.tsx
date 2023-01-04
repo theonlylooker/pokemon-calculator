@@ -7,7 +7,7 @@ const Layout: FC<layout> = ({ children }) => {
   return (
     <div className="m-7 grid place-items-center">
       <Mylogo />
-      <Mysearch />
+      {/* <Mysearch /> */}
       {children}
     </div>
   );

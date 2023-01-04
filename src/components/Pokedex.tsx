@@ -17,7 +17,7 @@ const Pokedex = () => {
     <div className="w-full bg-gradient-to-b from-gray-400 to-transparent">
       <h1 className="text-6xl mb-5 text-center">Pokedex</h1>
 
-      {/* <InfiniteScroll
+      <InfiniteScroll
         dataLength={Number(data?.pageParams.length) * 20}
         next={fetchNextPage}
         hasMore={hasNextPage as boolean}
@@ -39,7 +39,7 @@ const Pokedex = () => {
             </Fragment>
           ))}
         </div>
-      </InfiniteScroll> */}
+      </InfiniteScroll>
     </div>
   );
 };
