@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pokemon-calculator/static/css/main.82c84224.css",
+    "main.js": "/pokemon-calculator/static/js/main.2198e8f8.js",
+    "static/media/pokeapi_256.png": "/pokemon-calculator/static/media/pokeapi_256.888baca4809420be1126.png",
+    "index.html": "/pokemon-calculator/index.html",
+    "main.82c84224.css.map": "/pokemon-calculator/static/css/main.82c84224.css.map",
+    "main.2198e8f8.js.map": "/pokemon-calculator/static/js/main.2198e8f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82c84224.css",
+    "static/js/main.2198e8f8.js"
+  ]
+}
